@@ -15,6 +15,7 @@
   <main>
     <div class="container">
         <h1>Welcome to DevOps sample site</h1>
+        <h2>Deployed successfully to remote Tomcat</h2>
     </div>
   </main>
 </body>
